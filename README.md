@@ -8,3 +8,6 @@
   ii. Resizing an image.
     
   iii. Converting RGB image to Grayscale image.
+  
+  #### 2. Breast-Cancer-Classification-using-NN
+    Link to Breast Cancer Classification using Logistic Regression: 
