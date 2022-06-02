@@ -3,8 +3,8 @@
 
   Procedure:
   
-    i. Reading an image and converting it to numpy array.
+  i. Reading an image and converting it to numpy array.
     
-    ii. Resizing an image.
+  ii. Resizing an image.
     
-    iii. Converting RGB image to Grayscale image.
+  iii. Converting RGB image to Grayscale image.
