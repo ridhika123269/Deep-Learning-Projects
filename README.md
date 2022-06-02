@@ -11,4 +11,5 @@
   
   #### 2. Breast-Cancer-Classification-using-NN
   
-  Link to Breast Cancer Classification using Logistic Regression: 
+  Link to Breast Cancer Classification using Logistic Regression: https://github.com/ridhika123269/Machine-Learning-Projects/tree/main/Breast-Cancer-Classification-using-ML
+  
